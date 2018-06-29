@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Waiver.unity
+    guid: 079b582aa2365154c8e073b3b08607b4
+  - enabled: 1
+    path: Assets/Scenes/FrontPage.unity
+    guid: 06dfad44c35d68e4eb4a18cc3d7ccd90
+  - enabled: 1
+    path: Assets/_Scenes/Tutorial1.unity
+    guid: bf4bc8a6ea276438aad6a2ae4bcd03d1
+  - enabled: 1
+    path: Assets/_Scenes/Tutorial2.unity
+    guid: 5803c46fc01c94c5ca1688fcc4fe48b8
+  - enabled: 1
+    path: Assets/_Scenes/Tutorial3.unity
+    guid: 78b311e72a39e4c7eb777dbc2eaa5881
+  - enabled: 1
+    path: Assets/_Scenes/NumExposure2.unity
+    guid: bb923ee0bde334e4197eaf9972ef8b17
+  - enabled: 1
+    path: Assets/_Scenes/NumExposure.unity
+    guid: 61fd24f667cd149f797bebef58507d88
+  - enabled: 1
+    path: Assets/_Scenes/InputAnswer.unity
+    guid: de0e1dd4158344596906a2e04dbe9d87
+  - enabled: 1
+    path: Assets/_Scenes/EndScene.unity
+    guid: f52c3a6f011674d27a39d2c17dbe5298
+  - enabled: 1
+    path: Assets/Scenes/Background Instructions.unity
+    guid: 4a321f5372c886a4b9ea0eadadc42425
+  - enabled: 1
+    path: Assets/Scenes/Background.unity
+    guid: b8114a9ccc10c3143b9544a350755d8c
+  - enabled: 1
+    path: Assets/Scenes/SR_C Instructions.unity
+    guid: 84986cfa76630f543b7b22bd0db0d3d7
+  - enabled: 1
+    path: Assets/Scenes/SR_C.unity
+    guid: e86c85b016fc22142a4466878c7e5883
+  - enabled: 1
+    path: Assets/Scenes/SR_A Instructions.unity
+    guid: 709f5d699fbc78f4f9eb183444ff7448
+  - enabled: 1
+    path: Assets/Scenes/SR_A.unity
+    guid: 4e36ce8905d9d9745adfd65a6119ee48
+  - enabled: 1
+    path: Assets/Scenes/SR_B Instructions.unity
+    guid: ae8024e7f83234449a05ddb6ea6a8fe4
+  - enabled: 1
+    path: Assets/Scenes/SR_B.unity
+    guid: 0301b4a0587c6e14cb2dd709b120f302
+  - enabled: 1
+    path: Assets/Scenes/Thanks.unity
+    guid: 74a1a09e32e8c124382d8572bd90f45c
+  - enabled: 1
+    path: Assets/Scenes/Background 2.unity
+    guid: f9601d3cec00c954995c3b657b49fbe7
+  - enabled: 1
+    path: Assets/Scenes/CreativityTutorial1.unity
+    guid: 832ca19463dbeff41b012589ecec56a2
+  - enabled: 1
+    path: Assets/Scenes/Creativity.unity
+    guid: 453649fd0f1343343813e7b15eb67523
+  m_configObjects: {}
