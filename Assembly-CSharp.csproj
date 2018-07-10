@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{C05EE6E2-6390-D554-44EC-C2E08520CC2D}</ProjectGuid>
+    <ProjectGuid>{35A81F1E-5B2D-664B-C8B1-70BC8E9A30BC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -74,11 +74,18 @@
      <Compile Include="Assets\Scripts\SR_BSM.cs" />
      <Compile Include="Assets\Scripts\SR_CSM.cs" />
      <Compile Include="Assets\Scripts\SRCInstrSM.cs" />
+     <Compile Include="Assets\Scripts\ST Scripts Current\GridSpace.cs" />
+     <Compile Include="Assets\Scripts\ST Scripts Current\MovementScript.cs" />
+     <Compile Include="Assets\Scripts\ST Scripts Current\STGameController.cs" />
+     <Compile Include="Assets\Scripts\ST Scripts Current\Tutorial\GridSpacePractice.cs" />
+     <Compile Include="Assets\Scripts\ST Scripts Current\Tutorial\MovementScriptPractice.cs" />
+     <Compile Include="Assets\Scripts\ST Scripts Current\Tutorial\Tutorial.cs" />
+     <Compile Include="Assets\Scripts\ST Scripts Current\Tutorial\TutorialController.cs" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>C:/Users/Administrator/Desktop/Unity Workspace/Leadership Attribute Battery/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/Administrator/Desktop/Unity Workspace/Leadership Attribute Battery/lab/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/Administrator/Desktop/Unity Workspace/Leadership Attribute Battery/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/Administrator/Desktop/Unity Workspace/Leadership Attribute Battery/lab/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -255,7 +262,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/Unity.Locator.dll</HintPath>
  </Reference>
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>C:/Users/Administrator/Desktop/Unity Workspace/Leadership Attribute Battery/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>C:/Users/Administrator/Desktop/Unity Workspace/Leadership Attribute Battery/lab/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

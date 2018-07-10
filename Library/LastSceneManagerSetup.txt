@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Creativity.unity
+- path: Assets/Scenes_ST/ST_Exercise.unity
   isLoaded: 1
   isActive: 1
